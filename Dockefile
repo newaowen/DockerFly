@@ -1,4 +1,4 @@
-FROM daocoud.io/library/ubuntu:10.04
+FROM ubuntu:10.04
 MAINTAINER newaowen newaowen@qq.com
 RUN apt-get update
 RUN apt-get install -y nginx
